@@ -1,0 +1,9 @@
+Makefile
+configure
+autom4te.cache/
+config.log
+config.status
+libtool
+.deps
+*.swp
+Makefile.in

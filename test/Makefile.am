@@ -1,5 +1,5 @@
-AM_CPPFLAGS = -I.. -I../../libpdl -I../../libnmpatch
-AM_LDFLAGS = -L../src -L../../libpdl/src -L../../libnmpatch/src
+AM_CPPFLAGS = -I..
+AM_LDFLAGS = -L../src
 
 LDADD = -lpdl -lnmprotocol -lnmpatch -ltcl8.6
 
